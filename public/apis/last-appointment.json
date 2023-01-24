@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "date": "2022-02-01",
+        "category": "consultation",
+        "notes": "need to talk about the new year",
+        "cost": 10,
+        "attachments": []
+    },
+    {
+        "id": "2",
+        "date": "2022-02-02",
+        "category": "company",
+        "notes": "",
+        "cost": 10,
+        "attachments": []
+    },
+    {
+        "id": "3",
+        "date": "2022-02-03",
+        "category": "family",
+        "notes": "",
+        "cost": 10,
+        "attachments": []
+    },
+    {
+        "id": "4",
+        "date": "2022-02-04",
+        "category": "business",
+        "notes": "don't forget to buy milk",
+        "cost": 10,
+        "attachments": []
+    },
+    {
+        "id": "5",
+        "date": "2022-02-05",
+        "category": "business",
+        "notes": " and a little bit more",
+        "cost": 10,
+        "attachments": []
+    },
+    {
+        "id": "6",
+        "date": "2022-02-06",
+        "category": "bank",
+        "notes": "",
+        "cost": 10,
+        "attachments": []
+    }
+]

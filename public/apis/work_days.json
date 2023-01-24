@@ -1,0 +1,39 @@
+[
+    {
+      "id": "sunday",
+      "name": "الأحد",
+      "isAvailabile": true
+    },
+    {
+      "id": "monday",
+      "name": "الإثنين",
+      "isAvailabile": true
+    },
+    {
+      "id": "tuesday",
+      "name": "الثلاثاء",
+      "isAvailabile": false
+    },
+    {
+      "id": "wednesday",
+      "name": "الأربعاء",
+      "isAvailabile": false
+    },
+    {
+      "id": "thursday",
+      "name": "الخميس",
+      "isAvailabile": true
+    },
+    {
+      "id": "friday",
+      "name": "الجمعة",
+      "isAvailabile": true
+    },
+    {
+      "id": "saturday",
+      "name": "السبت",
+      "isAvailabile": true
+    }
+  ]
+  
+  

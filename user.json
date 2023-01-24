@@ -1,0 +1,12 @@
+{
+    "id":  "long uuid",
+    "fristName": "fristName",
+    "lastName": "fristName",
+
+    "role": "client",
+    "email": "email",
+
+    "isComplete": true,
+    "status": "enum value"
+
+}

@@ -1,0 +1,93 @@
+[
+   {
+      "dayId": "monday",
+      "intervals": [
+         {
+            "from": "08:00",
+            "to": "08:30"
+         },
+         {
+            "from": "08:30",
+            "to": "09:00"
+         }
+      ] 
+   },
+   {
+      "dayId": "tuesday",
+      "intervals": [
+         {
+            "from": "08:00",
+            "to": "08:30"
+         },
+         {
+            "from": "08:30",
+            "to": "09:00"
+         }
+      ]
+   },
+   {
+      "dayId": "wednesday",
+      "intervals": [
+         {
+            "from": "08:00",
+            "to": "08:30"
+         },
+         {
+            "from": "08:30",
+            "to": "09:00"
+         }
+      ]
+   },
+   {
+      "dayId": "thursday",
+      "intervals": [
+         {
+            "from": "08:00",
+            "to": "08:30"
+         },
+         {
+            "from": "08:30",
+            "to": "09:00"
+         }
+      ]
+   },
+   {
+      "dayId": "friday",
+      "intervals": [
+         {
+            "from": "08:00",
+            "to": "08:30"
+         },
+         {
+            "from": "08:30",
+            "to": "09:00"
+         }
+      ]
+   },
+   {
+      "dayId": "saturday",
+      "intervals": [
+         {
+            "from": "08:00",
+            "to": "08:30"
+         },
+         {
+            "from": "08:30",
+            "to": "09:00"
+         }
+      ]
+   },
+   {
+      "dayId": "sunday",
+      "intervals": [
+         {
+            "from": "08:00",
+            "to": "08:30"
+         },
+         {
+            "from": "08:30",
+            "to": "09:00"
+         }
+      ]
+   }
+]
